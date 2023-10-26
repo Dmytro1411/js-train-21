@@ -1,3 +1,6 @@
+let log = console.log;
+log("домашнее задание js-train-21");
+
 /*
  * Клас: Musician
  * Статичні поля:
